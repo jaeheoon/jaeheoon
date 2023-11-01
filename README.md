@@ -2,7 +2,7 @@
 
 ![jaeheoon's github stats](https://github-readme-stats.vercel.app/api?username=jaeheoon&show_icons=true)
 
-![](./profile-3d-contrib/profile-green-animate.svg)
+![](./profile-3d-contrib/profile-gitblock.svg)
 
 <!---
 jaeheoon/jaeheoon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
