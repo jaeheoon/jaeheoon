@@ -48,21 +48,21 @@
 			</th>
 			<td>Platform</td>
 			<td>
-        <!-- <img alt="Express" src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white"/> -->
-        <!-- <img alt="Koa" src="https://img.shields.io/badge/Koa-33333D?style=flat&logo=Koa&logoColor=white"/> -->
-        <!-- <img alt="Socket.io" src="https://img.shields.io/badge/Socket.io-010101?style=flat&logo=socketdotio&logoColor=white"/> -->
+				<!-- <img alt="Express" src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white"/> -->
+				<!-- <img alt="Koa" src="https://img.shields.io/badge/Koa-33333D?style=flat&logo=Koa&logoColor=white"/> -->
+				<!-- <img alt="Socket.io" src="https://img.shields.io/badge/Socket.io-010101?style=flat&logo=socketdotio&logoColor=white"/> -->
 				<img alt="spring" src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white" />
 				<img alt="spring boot" src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=Spring-Boot&logoColor=white" />
-  			<img alt="NodeJS" src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
+				<img alt="NodeJS" src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
+				<img alt="tomcat" src="https://img.shields.io/badge/Apache_Tomcat-F8DC75?style=flat&logo=Apache-Tomcat&logoColor=white" />
 			</td>
 		</tr>
 		<tr>
 			<td>ORM</td>
 			<td>
-        <!-- <img alt="Sequelize" src="https://img.shields.io/badge/Sequelize-52B0E7?style=flat&logo=sequelize&logoColor=white"/> -->
-        <!-- <img alt="Mongoose" src="https://img.shields.io/badge/Mongoose-880000?style=flat&logo=mongoose&logoColor=white"/> -->
+       				 <!-- <img alt="Sequelize" src="https://img.shields.io/badge/Sequelize-52B0E7?style=flat&logo=sequelize&logoColor=white"/> -->
+        			<!-- <img alt="Mongoose" src="https://img.shields.io/badge/Mongoose-880000?style=flat&logo=mongoose&logoColor=white"/> -->
 				<img alt="Mybatis" src="https://img.shields.io/badge/Mybatis-000000?style=flat&logo=Fluentd&logoColor=white" />
-				<img alt="tomcat" src="https://img.shields.io/badge/Apache_Tomcat-F8DC75?style=flat&logo=Apache-Tomcat&logoColor=white" />
 				<!-- <img alt="spring data jpa" src="https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=flat&logo=Spring&logoColor=white" /> -->
 			</td>
 		</tr>
@@ -76,9 +76,9 @@
 			<td>DBMS</td>
 			<td>
 				<img alt="Oracle" src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white">
-        <!-- <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" /> -->
-        <!-- <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" /> -->
-        <!-- <img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=Redis&logoColor=white" /> -->
+				<!-- <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" /> -->
+				<!-- <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" /> -->
+				<!-- <img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=Redis&logoColor=white" /> -->
 			</td>
 		</tr>
 		<tr>
@@ -93,7 +93,7 @@
 		<!-- <tr>
 			<td>OS</td>
 			<td>
-      	<img alt="Mac" src="https://img.shields.io/badge/Mac_OS-000000?style=flat&logo=Apple&logoColor=white" />
+      				<img alt="Mac" src="https://img.shields.io/badge/Mac_OS-000000?style=flat&logo=Apple&logoColor=white" />
 				<img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=Windows&logoColor=white" />
 				<img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white" />
 				<img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=Ubuntu&logoColor=white" />
@@ -110,8 +110,8 @@
 		<tr>
 			<td>ETC</td>
 			<td>
-      	<img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=Amazon-AWS&logoColor=white" />
-        <!-- <img alt="NCP" src="https://img.shields.io/badge/NaverCloudPlatform-03C75A?style=flat&logo=Naver&logoColor=white" /> -->
+				<img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=Amazon-AWS&logoColor=white" />
+				<!-- <img alt="NCP" src="https://img.shields.io/badge/NaverCloudPlatform-03C75A?style=flat&logo=Naver&logoColor=white" /> -->
 				<!-- <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" /> -->
 			</td>
 		</tr>
