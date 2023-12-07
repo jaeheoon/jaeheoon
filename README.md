@@ -1,6 +1,6 @@
 <div align=center>
   <br>
-  - 👋 Hi, I’m @jaeheoon
+  - 👋 Hi, I’m @jaeheoon 👋
   <br><br><br>
 </div>
 <div align=center>
