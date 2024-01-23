@@ -38,7 +38,6 @@
         <!-- <img alt="VanilaScript" src="https://img.shields.io/badge/VanilaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" /> -->
 				<img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white" />
         <!-- <img alt="Redux" src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white"/> -->
-				<img alt="jsp" src="https://img.shields.io/badge/JSP-FFFFFF?style=flat&logo=OpenJDK&logoColor=black"/>
 				<img alt="Thymeleaf" src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat&logo=thymeleaf&logoColor=white"/>
 			</td>
 		</tr>
@@ -54,6 +53,7 @@
 				<img alt="spring" src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white" />
 				<img alt="spring boot" src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=Spring-Boot&logoColor=white" />
 				<img alt="NodeJS" src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
+				<img alt="jsp" src="https://img.shields.io/badge/JSP-FFFFFF?style=flat&logo=OpenJDK&logoColor=black"/>
 				<img alt="tomcat" src="https://img.shields.io/badge/Apache_Tomcat-F8DC75?style=flat&logo=Apache-Tomcat&logoColor=white" />
 			</td>
 		</tr>
