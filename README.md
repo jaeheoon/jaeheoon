@@ -130,8 +130,8 @@
   <br>
 </div>
 
-<!--- 3D 잔디 --->
-![](./profile-3d-contrib/profile-gitblock.svg)
+<!--- 3D 잔디 
+![](./profile-3d-contrib/profile-gitblock.svg)--->
 
 <!---
 jaeheoon/jaeheoon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
